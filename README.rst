@@ -2,12 +2,13 @@
 Flask-Material-Lite
 ===============================
 
-Flask Material Lite
+
+A Flask starter project using `Material Design Lite Template`_
 
 Flask Project original initiated using `cookiecutter-flask`_
 
 .. _cookiecutter-flask: https://github.com/sloria/cookiecutter-flask
-
+.. _Material Design Lite Template: http://www.getmdl.io/templates/android-dot-com/index.html
 
 Quickstart
 ----------
