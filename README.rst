@@ -4,6 +4,10 @@ Flask-Material-Lite
 
 Flask Material Lite
 
+Flask Project original initiated using `cookiecutter-flask`_
+
+.. _cookiecutter-flask: https://github.com/sloria/cookiecutter-flask
+
 
 Quickstart
 ----------
@@ -20,7 +24,7 @@ Then run the following commands to bootstrap your environment.
 
 ::
 
-    git clone https://github.com/jimmyho/flaskMDL
+    git clone https://github.com/jimmyho/Flask-Material-Lite
     cd flaskMDL
     pip install -r requirements/dev.txt
     python manage.py server
